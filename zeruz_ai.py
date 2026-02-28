@@ -8,7 +8,7 @@ from vosk import Model, KaldiRecognizer
 # ----------------------------
 # CONFIG
 # ----------------------------
-VOSK_MODEL_PATH = "/home/vijay/vosk-model-small-en-us-0.15"
+VOSK_MODEL_PATH = "/home/user/vosk-model-small-en-us-0.15"
 OLLAMA_URL = "http://localhost:11434/api/generate"
 OLLAMA_MODEL = "phi3"
 
